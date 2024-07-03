@@ -1,0 +1,9 @@
+# pip install -r requirement.txt
+langchain
+langchain_openai
+langchain_community
+openai
+transformers
+torch
+accelerate
+faiss-cpu
