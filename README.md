@@ -1,5 +1,8 @@
 ## References
-- [Quy trình xây dựng hệ thống RAG tích hợp Function Calling (with source code)]()
+- [Function calling: Lời giải cho hệ thống RAG linh hoạt và hiệu quả](https://viblo.asia/p/function-calling-loi-giai-cho-he-thong-rag-linh-hoat-va-hieu-qua-y37Ld1k0Vov#_2-van-de-thuong-gap-khi-xay-dung-he-thong-rag-1)
+- [Quy trình xây dựng hệ thống RAG tích hợp Function Calling]()
+- [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling?lang=python)
+- [OpenAI Function Calling Tutorial - Example](https://www.datacamp.com/tutorial/open-ai-function-calling-tutorial)
 
 =====
 =====
